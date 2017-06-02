@@ -28,4 +28,5 @@ and what would be harder?
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
 
-    Fill in your answer here
+    I will make changes in a seperate branch if i'm working on the project with someone; this individual will have to review the changes before they are commited to to Master Branch.
+    The benefit of making changes to a seperate branch is that you can chose to delete the entire branch history.
